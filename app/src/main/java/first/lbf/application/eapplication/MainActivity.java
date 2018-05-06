@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String m = "Mp";
+    private String m = "kir";
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
